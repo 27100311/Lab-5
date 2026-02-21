@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Lab5-starter</string>
+    <string name="gcm_defaultSenderId" translatable="false">679654903822</string>
+    <string name="google_api_key" translatable="false">AIzaSyAH7FSDk-R1MCG1kN6jlWtRF8ySeaBcA7A</string>
+    <string name="google_app_id" translatable="false">1:679654903822:android:9ce1bb2833ed0f0fcc6c5f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAH7FSDk-R1MCG1kN6jlWtRF8ySeaBcA7A</string>
+    <string name="google_storage_bucket" translatable="false">lab-5-23961.firebasestorage.app</string>
+    <string name="project_id" translatable="false">lab-5-23961</string>
+    <style name="Base.Theme.Lab5starter" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab5starter" parent="Base.Theme.Lab5starter"/>
+</resources>
